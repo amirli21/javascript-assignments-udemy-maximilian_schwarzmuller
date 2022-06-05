@@ -1,7 +1,7 @@
 # javascript-assignments-udemy-maximilian_schwarzmuller
 This repository contains the problem statements and my solutions to the udemy course by Maximilian Schwarzmuller for learning Javascript.
 
-Here is a course link, [https://www.udemy.com/share/1029Rk3@5UV9EizvtEjK0EbAWRtI0lNkIW65-p8UnqPhspOYg07V6tThOqdt0iJUrisAak5Fxw==/] . 
+[Here](https://www.udemy.com/share/1029Rk3@5UV9EizvtEjK0EbAWRtI0lNkIW65-p8UnqPhspOYg07V6tThOqdt0iJUrisAak5Fxw==/) is a course link. 
 
 Problem statements <br>
 <ol>
