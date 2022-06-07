@@ -3,7 +3,7 @@ This repository contains the problem statements and my solutions to the udemy co
 
 [Here](https://www.udemy.com/share/1029Rk3@5UV9EizvtEjK0EbAWRtI0lNkIW65-p8UnqPhspOYg07V6tThOqdt0iJUrisAak5Fxw==/) is a course link. 
 
-Problem statements <br>
+Problem statements for assignment 1<br>
 <ol>
       <li>
         Create two variables: One that holds a fictional user input (a number of
@@ -24,5 +24,32 @@ Problem statements <br>
       <li>
         <code>alert()</code> the result and the user input variables (in two
         separate <code>alert()</code> calls).
+      </li>
+    </ol>
+    
+Problem statements for assignment 2 <br>
+<ol>
+      <li>
+        Create two new functions: One that takes no parameters and simply shows
+        an <code>alert()</code> with some text of your choice and one that
+        receives a name as a parameter and then uses <code>alert()</code> to
+        output that name.
+      </li>
+      <li>
+        Call both functions directly from your code.
+      </li>
+      <li id="task-3">
+        Add an event listener to <code>task3Element</code> and attach it to the
+        first function (the one without arguments). Click this task thereafter
+        to verify whether it works.
+      </li>
+      <li>
+        Add a brand-new function that takes three parameters (three strings,
+        give them any names you want) that returns one combined string (where the
+        three strings are concatenated).
+      </li>
+      <li>
+        Call that new function directly from your code and
+        <code>alert()</code> the result of that function.
       </li>
     </ol>
